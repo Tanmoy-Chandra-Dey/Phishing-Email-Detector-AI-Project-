@@ -1,0 +1,31 @@
+text,label
+"Your account has been locked. Click the link to reset your password immediately.",phishing
+"Congratulations! You won a gift card. Claim your reward now.",phishing
+"Urgent action required. Verify your bank account details today.",phishing
+"Your mailbox is full. Sign in here to keep your account active.",phishing
+"We detected suspicious activity. Confirm your login credentials now.",phishing
+"Update your payment information to avoid service interruption.",phishing
+"Click here to receive your tax refund immediately.",phishing
+"Your package delivery failed. Reschedule by entering your details.",phishing
+"Security alert: Your account will be terminated unless verified.",phishing
+"You have been selected for a prize. Submit your password to continue.",phishing
+"Team meeting has been moved to 3 PM tomorrow.",legitimate
+"Please find the project report attached for your review.",legitimate
+"Your class starts at 10 AM in room B204.",legitimate
+"Thank you for your payment. Your invoice is attached.",legitimate
+"Let's have lunch after the lecture today.",legitimate
+"Your appointment is confirmed for Monday at 2 PM.",legitimate
+"Here are the notes from yesterday's cybersecurity workshop.",legitimate
+"The university library will close at 8 PM tonight.",legitimate
+"Can you review the GitHub repository before the deadline?",legitimate
+"Reminder: Submit your assignment on Canvas before Friday.",legitimate
+"Reset your university password using the official student portal.",legitimate
+"Please update your emergency contact information in the HR system.",legitimate
+"We need your approval for the revised budget by end of day.",legitimate
+"Your subscription invoice for this month is attached.",legitimate
+"Confirm your attendance for the networking event this evening.",legitimate
+"Your payroll information needs urgent verification to avoid delay.",phishing
+"Click this secure form and enter your login details.",phishing
+"Final warning: your email account will be deleted unless confirmed.",phishing
+"You received an encrypted message. Open and verify now.",phishing
+"A new sign-in attempt was blocked. Validate your identity here.",phishing
