@@ -1,1 +1,8 @@
+Phishing Email Detector (AI)
+----------------------------
+Enter the email text to analyze:
+Your bank account has been suspended. Click here immediately to verify your password.
+
+Prediction: Phishing
+Confidence: 96.41%
 
